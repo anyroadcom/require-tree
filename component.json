@@ -1,0 +1,13 @@
+{
+  "name": "require-tree",
+  "description": "require() whole trees in node.js with smart filtering for models/controllers/etc",
+  "type": "component",
+  "homepage": "http://github.com/ricardobeat/require-tree",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "version": "0.3.3",
+  "repository": "anyroad/require-tree"
+}
